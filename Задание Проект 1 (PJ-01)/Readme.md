@@ -9,4 +9,4 @@ _Ссылки:_
 
 * [Telegram (предпочтительно)](https://t.me/kjottboller)
 * [VK](https://vk.com/kjottboller)
-* [Пачка](@kjottboller)
+* Пачка @kjottboller
