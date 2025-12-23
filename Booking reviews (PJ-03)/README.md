@@ -1,11 +1,12 @@
 # Booking Reviews
 
-## 📌 Описание проекта
+## Описание проекта
+Прогнозирование рейтинга отеля на Booking
 Цель — предсказать оценку отеля (`reviewer_score`) на основе данных об отеле, пользователе и метаданных отзыва.
 
 ---
 
-## 🧠 Используемые модели
+## Используемые модели
 - **RandomForestRegressor** — baseline модель
 - **CatBoostRegressor** — финальная модель
 
@@ -13,7 +14,7 @@ CatBoost выбран из-за хорошей работы с табличны�
 
 ---
 
-## 🛠️ Стек технологий
+## Стек технологий
 - Python 3.12.9
 - Pandas, NumPy
 - Scikit-learn
@@ -23,19 +24,19 @@ CatBoost выбран из-за хорошей работы с табличны�
 
 ---
 
-## 🔍 Основные этапы работы
+## Основные этапы работы
 - EDA и анализ данных
 - Очистка данных и обработка выбросов
 - Feature engineering
 - Обучение и валидация моделей
 - Подготовка submission-файла
 
-## 📂 Структура проекта
-Booking reviews (PJ-03)/
-├── competition.ipynb
-├── requirements.txt
-├── submission_final.csv
-├── README.md
-└── .gitignore
+## Структура проекта
+Booking reviews (PJ-03)/  
+├── competition.ipynb  
+├── requirements.txt  
+├── submission_final.csv  
+├── README.md  
+└── .gitignore  
 
 ```
